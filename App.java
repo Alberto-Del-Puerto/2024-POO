@@ -52,3 +52,13 @@ public class App {
 
     }
 }
+/*
+ * llenar un arreglo de 4 cuentas, donde el usuario ingresa cada uno de los
+ * datos. Utilizando un ciclo. Mostrar el listado de las cuentas ingresadas
+ * 
+ * 
+ *
+ * 
+ * 
+ * 
+ *  */
